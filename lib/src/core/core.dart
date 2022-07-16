@@ -1,0 +1,1 @@
+export './styles/skeleton/skeleton.dart';
